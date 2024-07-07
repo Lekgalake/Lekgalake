@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gift makanatleng    
-- 👀 I’m interested in software development  
+- 👀 I’m interested in web development  
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0796798422
